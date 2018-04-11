@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
 
 public class MD5Helper {
 	
-	public static String key = "«∞÷√";		
+	public static String key = "key";		
 
 	public static String encode(String str) {
 		MessageDigest messageDigest = null;
